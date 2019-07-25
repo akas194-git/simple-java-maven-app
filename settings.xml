@@ -3,14 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <servers>
     <server>
+      <id>s3-test-artifactory</id>  
       <username>AKIAXRDNI5TRTBAMVZNY</username>
       <password>5hLKdeBLA5gA5eLYkHgHLTpLRJe3xxYJN/nPIK7G</password>
-      <id>central</id>
-    </server>
-    <server>
-      <username>AKIAXRDNI5TRTBAMVZNY</username>
-      <password>5hLKdeBLA5gA5eLYkHgHLTpLRJe3xxYJN/nPIK7G</password>
-      <id>snapshots</id>
     </server>
   </servers>
 </settings>
