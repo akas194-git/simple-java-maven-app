@@ -44,7 +44,7 @@
   </build>
     <distributionManagement>
          <snapshotRepository>
-             <id>snapshots</id>
+             <id>s3-test-artifactory</id>
              <name>s3-bucket-snapshot</name>
              <url>s3://s3-test-artifactory/snapshot</url>
          </snapshotRepository>
